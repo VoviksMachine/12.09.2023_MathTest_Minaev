@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.09.2023_MathTest_Minaev", "12.09.2023_MathTest_Minaev\12.09.2023_MathTest_Minaev.csproj", "{CBFE839E-DFBA-460D-973A-C1CE83279D5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBFE839E-DFBA-460D-973A-C1CE83279D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFE839E-DFBA-460D-973A-C1CE83279D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFE839E-DFBA-460D-973A-C1CE83279D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFE839E-DFBA-460D-973A-C1CE83279D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B24C5A1-3917-4BD4-860D-0DB77EB0C61A}
+	EndGlobalSection
+EndGlobal
